@@ -1,0 +1,19 @@
+<stylesheet>
+@font-face{
+  font-family:"salsa";
+  src: url("../fonts/salsa-regular-webfont.woff;2") format ("woff2"),
+  url("../fonts/salsa-regular-webfont.woff") format ("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1{
+  color: #661;
+/*graysale 123456789abdef */
+
+}
+span{color:#000;}
+body{
+background-color: #18b;
+color: #f25;
+}
